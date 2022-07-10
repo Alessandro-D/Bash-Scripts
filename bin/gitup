@@ -1,0 +1,7 @@
+# GIT Add, Commit and Push
+
+git status
+git add .
+git commit -m "`date`"
+# git commit --amend --no-edit
+git push

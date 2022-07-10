@@ -1,0 +1,4 @@
+#!/bin/bash
+
+xhome=/home/xandro
+cp -r $xhome/.kde $xhome/data/setup/backup/
